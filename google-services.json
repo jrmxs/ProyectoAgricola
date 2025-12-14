@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758316135602",
+    "project_id": "proyectoagricola-85b4e",
+    "storage_bucket": "proyectoagricola-85b4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758316135602:android:01882137a824bd81a845ab",
+        "android_client_info": {
+          "package_name": "com.jorgexs92.ProyectoAgricola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ANTyvB6KqoC8ia6QrXoisJqlgnwKl3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
