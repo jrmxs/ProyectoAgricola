@@ -70,7 +70,7 @@ export default function SignInScreen() {
           onChangeText={setPassword}
           secureTextEntry
         />
-        <Pressable onPress={() => Alert.alert('En construcción', 'Esta función aún no está lista.')}>
+        <Pressable onPress={() => router.push('/forgot-password')}> 
           <Text style={styles.forgotPassword}>¿Olvidaste tu contraseña?</Text>
         </Pressable>
         <Pressable 
